@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![banner](https://github.com/DanielRGilles/DanielRGilles/blob/main/Dano.gif)
 
 <p text-align="center">I am a Full-Stack Software Developer with experience with React, Tailwind, and Express</p>
 

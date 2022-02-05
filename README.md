@@ -1,7 +1,8 @@
 ### Hi there 👋
 ![banner](https://github.com/DanielRGilles/DanielRGilles/blob/main/Dano.gif)
 
-<p text-align="center">I am a Full-Stack Software Developer with experience with React, Tailwind, and Express</p>
+<p text-align="center">I am a Full-Stack Software Developer with experience with React, Tailwind, PostgreSQL and Express
+I'm always excited to learn and implement new tech and features. I love hiking and traveling in my free time.</p>
 
 
 ### 💻 Tech Stack

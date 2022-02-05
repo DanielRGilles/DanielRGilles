@@ -1,7 +1,5 @@
 ### Hi there 👋
-![banner](https://github.com/DanielRGilles/DanielRGilles/blob/master/banner.gif)
-<img src="https://github.com/DanielRGilles/DanielRGilles/blob/master/duck.png" alt="drawing" width="75"/>
-![three words](https://github.com/DanielRGilles/DanielRGilles/blob/master/words.gif)
+
 
 <p text-align="center">I am a Full-Stack Software Developer with experience with React, Tailwind, and Express</p>
 
